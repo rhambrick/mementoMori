@@ -44,4 +44,7 @@ gcc mm.c -o app
 ./app
 ```
 
+Project was done on July 16, 2025.
+My personal number that day was roughly 1,482,900,000
+
 # Enjoy life until you die.
